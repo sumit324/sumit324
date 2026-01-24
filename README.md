@@ -39,7 +39,7 @@ I love building automation scripts and deploying applications using modern DevOp
 - Backup automation
 - Log monitoring
 
-🔗 Repo: [Linux Scripts](https://github.com/yourusername/linux-scripts)
+🔗 Repo: [Linux Scripts](https://github.com/sumit324/Shell-Scripting/tree/main/Deploy)
 
 ---
 
