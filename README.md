@@ -1,30 +1,30 @@
-# Hi 👋 I'm Sumit Deshmukh  
+# Hi  I'm Sumit Deshmukh  
 
-🚀 **DevOps Enthusiast | Cloud Learner | Linux & Automation Lover**  
+ **DevOps Enthusiast | Cloud Learner | Linux & Automation Lover**  
 
 I am a passionate **DevOps fresher** with strong fundamentals in **Linux, Shell Scripting, Networking, Python, Cloud & CI/CD**.  
 I love building automation scripts and deploying applications using modern DevOps tools.
 
 ---
 
-## 🔧 Skills & Tools
+##  Skills & Tools
 
-### 💻 Operating Systems
+###  Operating Systems
 - Linux (Ubuntu, CentOS)
 - Windows
 
-### 🧰 DevOps & Cloud
+###  DevOps & Cloud
 - Git & GitHub  
 - Docker  
 - Jenkins  
 - AWS (EC2, S3, IAM, VPC – Basics)  
 - CI/CD Pipelines  
 
-### 📜 Scripting & Programming
+###  Scripting & Programming
 - Shell Scripting (Bash)
 - Python (Automation)
 
-### 🌐 Networking
+###  Networking
 - TCP/IP
 - DNS
 - HTTP/HTTPS
@@ -32,9 +32,9 @@ I love building automation scripts and deploying applications using modern DevOp
 
 ---
 
-## 📂 Projects
+##  Projects
 
-### 🔹 Linux Automation Scripts
+###  Linux Automation Scripts
 - User management scripts
 - Backup automation
 - Log monitoring
@@ -43,7 +43,7 @@ I love building automation scripts and deploying applications using modern DevOp
 
 ---
 
-### 🔹 Python for DevOps
+###  Python for DevOps
 - File backup automation
 - System monitoring scripts
 
@@ -51,7 +51,7 @@ I love building automation scripts and deploying applications using modern DevOp
 
 ---
 
-### 🔹 CI/CD Pipeline Project
+###  CI/CD Pipeline Project
 - Jenkins pipeline
 - GitHub integration
 - Docker image build & deploy
