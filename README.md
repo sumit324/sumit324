@@ -63,7 +63,8 @@ I love building automation scripts and deploying applications using modern DevOp
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/sumit-deshmukh-3b781527a 
-- 📧 Email: sumitdeshmukh324@gmail.com  
+- 📧 Email: sumitdeshmukh324@gmail.com
+-  Portfolio: https://sumit324.github.io/CICD-Workflows/
 
 ---
 
