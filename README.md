@@ -56,7 +56,7 @@ I love building automation scripts and deploying applications using modern DevOp
 - GitHub integration
 - Docker image build & deploy
 
-🔗 Repo: [CI/CD Project](https://github.com/yourusername/cicd-project)
+🔗 Repo: [CI/CD Project](https://github.com/sumit324/CICD-Workflows.git)
 
 ---
 
